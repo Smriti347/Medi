@@ -15,7 +15,7 @@ Medi is your personalized medical recommendation system designed to empower you 
 
 1. Clone this repository.
 2. Install dependencies with `pip install -r requirements.txt`.
-3. Run the Flask web app with `python app.py`.
+3. Run the Flask web app with `python main.py`.
 4. Access MediAssist through your browser at `http://localhost:5000`.
 
 ## Usage
